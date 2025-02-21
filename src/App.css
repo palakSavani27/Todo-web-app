@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.app-container.light {
+  background-color: white;
+  color: black;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.app-container.dark {
+  background-color: #121212;
+  color: white;
+  min-height: 100vh;
+  padding: 20px;
+}
+
